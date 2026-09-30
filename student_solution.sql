@@ -1,5 +1,3 @@
-SET SERVEROUTPUT ON;
-
 DECLARE
     num1 NUMBER := 10;
     num2 NUMBER := 20;
